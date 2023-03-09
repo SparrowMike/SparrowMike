@@ -31,3 +31,4 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 
 https://github.com/Ileriayo/markdown-badges
 -->
+![Snake animation](https://github.com/SparrowMike/eagrundy/blob/output/github-contribution-grid-snake.svg)
