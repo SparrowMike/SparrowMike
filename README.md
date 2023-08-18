@@ -6,28 +6,11 @@
 
 <!-- github-readme-stats-git-master-sparrowmike.vercel.app -->
 
- <div>
+<div>
   <a href="https://github.com/SparrowMike">
-   <img align="center" height="170" src="https://github-stats-sparrowmike.vercel.app/api/top-langs/?username=SparrowMike&layout=compact&langs_count=16&theme=dracula"/>
-   <img align="right" src="https://github-stats-sparrowmike.vercel.app/api?username=SparrowMike&show_icons=true&theme=dracula&hide=issues"/>
+  <img align="center" height="170" src="https://github-stats-sparrowmike.vercel.app/api/top-langs/?username=SparrowMike&layout=compact&langs_count=16&theme=dracula"/>
+  <img align="right" src="https://github-stats-sparrowmike.vercel.app/api?username=SparrowMike&show_icons=true&theme=dracula&hide=issues"/>
 </div>
-
-<!--
-**SparrowMike/SparrowMike** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Get in touch [here](https://www.linkedin.com/in/mikesparrow/)
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <!-- 
 https://github.com/anuraghazra/github-readme-stats#top-languages-card
@@ -35,9 +18,21 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 https://github.com/Ileriayo/markdown-badges
 -->
  
-<p align="center">
-  <img src="https://github.com/SparrowMike/SparrowMike/blob/output/github-snake-dark.svg" alt="Snake animation">
-</p>
+<picture align="center">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/SparrowMike/SparrowMike/blob/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/SparrowMike/SparrowMike/blob/output/github-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://github.com/SparrowMike/SparrowMike/blob/output/github-snake-dark.svg"
+  />
+</picture>
+
 
 <!--
 <div>
